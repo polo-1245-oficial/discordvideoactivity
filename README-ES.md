@@ -2,6 +2,9 @@
 
 Bienvenido. Este README proporciona una visión general de cómo funciona el proyecto y su estructura.
 
+## Demo [máxima calidad](https://x.com/Polo_1245Ofi/status/1832040326116094272)
+![ezgif-7-a782ab0ea7](https://github.com/user-attachments/assets/c0b7d6c4-fd69-4be5-9a05-04ea9f83ac4b)
+
 ## Diagrama de flujo
 A continuación se muestra el diagrama de flujo que ilustra el funcionamiento interno del proyecto:
 
