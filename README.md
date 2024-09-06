@@ -6,7 +6,7 @@ Below is the flowchart illustrating the internal workings of the project:
 
 ![diagrama](https://github.com/user-attachments/assets/d316f61e-1897-43a5-bcf5-3816e83b9de6)
 
-##Repository Structure
+## Repository Structure
 - /bot -> Contains all information related to the Discord bot. It uses the [handler](https://github.com/Fyxren/discord.js-v14-handler) provided by Fyxren.
   - /src -> Contains the bot's code.
     - /commands/info -> This directory includes the bot's single command.
